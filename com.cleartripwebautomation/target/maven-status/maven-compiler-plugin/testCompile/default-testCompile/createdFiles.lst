@@ -1,0 +1,4 @@
+utilities\Browser.class
+com\cleartrip\pages\SearchflightsPage.class
+com\cleartrip\pages\BaseClass.class
+com\cleartrip\testcases\Searchflighttestcase.class
